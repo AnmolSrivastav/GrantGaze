@@ -12,7 +12,7 @@ An interactive and insightful dashboard built using **Streamlit** to explore the
 - 🤖 **AI Research Insights**: Identify AI-related funding, trends, and key researchers.
 
 ## 📂 Folder Structure
-
+```plaintext
 ├── datasets/
 │   ├── Grant.csv
 │   ├── Person.csv
