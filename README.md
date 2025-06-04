@@ -13,14 +13,16 @@ An interactive and insightful dashboard built using **Streamlit** to explore the
 
 ## 📂 Folder Structure
 
-datasets/
-├── Grant.csv
-├── Person.csv
-├── Institute.csv
-├── GrantToPerson.csv
-├── GrantToDiscipline.csv
-├── Discipline.csv
-├── GrantToKeyword.csv
-├── Keyword.csv
-├── sna1.png
-Dashboard.py (this script)
+├── datasets/
+│   ├── Grant.csv
+│   ├── Person.csv
+│   ├── Institute.csv
+│   ├── GrantToPerson.csv
+│   ├── GrantToDiscipline.csv
+│   ├── Discipline.csv
+│   ├── GrantToKeyword.csv
+│   ├── Keyword.csv
+│   └── sna1.png
+├── Dashboard.py
+├── README.md
+└── requirements.txt
