@@ -26,6 +26,8 @@ An interactive and insightful dashboard built using **Streamlit** to explore the
 ├── Dashboard.py
 ├── README.md
 └── requirements.txt
+```
+
 
 ## Installation
 Clone the repository:
