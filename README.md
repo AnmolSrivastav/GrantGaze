@@ -1,17 +1,17 @@
-# 📊 SNSF Research Funding Dashboard
+# SNSF Research Funding Dashboard
 
 An interactive and insightful dashboard built using **Streamlit** to explore the Swiss National Science Foundation (SNSF) research funding dataset. This tool allows users to analyze trends, explore research topics, visualize diversity, and discover AI research and collaboration networks.
 
-## 🚀 Features
+## Features
 
-- 📈 **Overview**: Summary metrics for grants, funding, researchers, and institutions.
-- 📊 **Explore Trends**: Interactive filters to analyze funding trends by year, discipline, and institution.
-- 🔤 **Research Topics**: NLP-powered keyword analysis with bar charts and word clouds.
-- 🌍 **Diversity Insights**: Visualizations of gender representation and funding disparities.
-- 🤝 **Collaboration Network**: Network graph of top researchers based on grant co-applications.
-- 🤖 **AI Research Insights**: Identify AI-related funding, trends, and key researchers.
+- **Overview**: Summary metrics for grants, funding, researchers, and institutions.
+- **Explore Trends**: Interactive filters to analyze funding trends by year, discipline, and institution.
+- **Research Topics**: NLP-powered keyword analysis with bar charts and word clouds.
+- **Diversity Insights**: Visualizations of gender representation and funding disparities.
+- **Collaboration Network**: Network graph of top researchers based on grant co-applications.
+- **AI Research Insights**: Identify AI-related funding, trends, and key researchers.
 
-## 📂 Folder Structure
+## Folder Structure
 ```plaintext
 ├── datasets/
 │   ├── Grant.csv
