@@ -27,7 +27,7 @@ An interactive and insightful dashboard built using **Streamlit** to explore the
 ├── README.md
 └── requirements.txt
 
-Installation
+**## Installation**
 Clone the repository:
 git clone https://github.com/AnmolSrivastav/GrantGaze.git
 cd GrantGaze
