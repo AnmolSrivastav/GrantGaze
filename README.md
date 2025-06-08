@@ -30,25 +30,25 @@ An interactive and insightful dashboard built using **Streamlit** to explore the
 
 
 ## Installation
-Clone the repository:
-git clone https://github.com/AnmolSrivastav/GrantGaze.git
-cd GrantGaze
+      Clone the repository:
+      git clone https://github.com/AnmolSrivastav/GrantGaze.git
+      cd GrantGaze
 
-Create and activate a virtual environment:
-  On Windows:
-    python -m venv venv
-    venv\Scripts\activate
-  
-  On macOS/Linux:
-    python3 -m venv venv
-    source venv/bin/activate
+## Create and activate a virtual environment**:
+  - **On Windows**:
+        python -m venv venv
+        venv\Scripts\activate
 
-Install the dependencies:
-pip install -r requirements.txt
+  - **On macOS/Linux**:
+        python3 -m venv venv
+        source venv/bin/activate
 
-Running the Dashboard
-Start the Streamlit app by running:
-streamlit run Dashboard.py
+## Install the dependencies:
+      pip install -r requirements.txt
+
+## Running the Dashboard
+    Start the Streamlit app by running:
+    streamlit run Dashboard.py
 
 Then open http://localhost:8501 in your browser to view and interact with the dashboard.
 
